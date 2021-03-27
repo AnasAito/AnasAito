@@ -7,9 +7,9 @@ I'm Anas AIT AOMAR , an engineering student at Emines school of industrial manag
 
 # Projects and Articles
 ## Visual capsules 
-- [Notes on statistical learning](https://www.notion.so/d5a8fd91f0d8456fbc8f71ff9d002a48?v=900f31fc97174524916a93908a5fabc0)
-- [Notes on control theory](https://www.notion.so/d5a8fd91f0d8456fbc8f71ff9d002a48?v=900f31fc97174524916a93908a5fabc0)
-- [Notes on graph theory](https://www.notion.so/d5a8fd91f0d8456fbc8f71ff9d002a48?v=900f31fc97174524916a93908a5fabc0)
+- [Notes on statistical learning](https://www.notion.so/89030551669e4dc58092b775c6c9d69b?v=e93a3479942640729db8f6367c67a229)
+- [Notes on control theory](https://www.notion.so/db42a1cdb92240fab606a86c8f2d3a23?v=1678cf1198bf4e0c9ef6bd887011106d)
+- [Notes on graph theory](https://www.notion.so/7815ad27081840c19b42c5d45cda09a3?v=6ab231ed552b4b46a27d636917c179cf)
 ## Articles 
 - [Temporal semantic network analysis](https://towardsdatascience.com/temporal-semantic-network-analysis-bd8869c10f10)
 - [Notes on graph theory — Centrality measures](https://towardsdatascience.com/notes-on-graph-theory-centrality-measurements-e37d2e49550a)
