@@ -6,10 +6,12 @@
 I'm Anas AIT AOMAR , an engineering student at Emines school of industrial management. Drifted by my curiosity and my love to research , i try to keep the balance between my daily consumption of machine learning materials and the creation of tools/projects to straighten my understanding but also pat’y back to the community via blogs and talks about machine learning and network( graph theory) field
 
 # Projects and Articles
+## Articles 
+- [Over-smoothing issue in graph neural network](https://towardsdatascience.com/over-smoothing-issue-in-graph-neural-network-bddc8fbc2472)
+- [Temporal semantic network analysis](https://towardsdatascience.com/temporal-semantic-network-analysis-bd8869c10f10)
+- [Notes on graph theory — Centrality measures](https://towardsdatascience.com/notes-on-graph-theory-centrality-measurements-e37d2e49550a)
 ## Visual capsules 
 - [Notes on statistical learning](https://www.notion.so/89030551669e4dc58092b775c6c9d69b?v=e93a3479942640729db8f6367c67a229)
 - [Notes on control theory](https://www.notion.so/db42a1cdb92240fab606a86c8f2d3a23?v=1678cf1198bf4e0c9ef6bd887011106d)
 - [Notes on graph theory](https://www.notion.so/7815ad27081840c19b42c5d45cda09a3?v=6ab231ed552b4b46a27d636917c179cf)
-## Articles 
-- [Temporal semantic network analysis](https://towardsdatascience.com/temporal-semantic-network-analysis-bd8869c10f10)
-- [Notes on graph theory — Centrality measures](https://towardsdatascience.com/notes-on-graph-theory-centrality-measurements-e37d2e49550a)
+
