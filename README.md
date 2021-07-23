@@ -3,7 +3,7 @@
 
 
 # Hi there 👋
-I'm Anas AIT AOMAR , an engineering student at Emines school of industrial management. Drifted by my curiosity and my love to research, i try to keep the balance between my daily consumption of machine learning materials and the creation of tools/projects to straighten my understanding but also pat’y back to the community via blogs and talks about machine learning and network( graph theory) field
+I'm Anas AIT AOMAR , an engineering student at Emines school of industrial management. Drifted by my curiosity and my love to research, i try to keep the balance between my daily consumption of machine learning materials and the creation of tools/projects to straighten my understanding but also pay back to the community via blogs and talks about machine learning and network( graph theory) field
 
 # Projects and Articles
 ## Articles 
