@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/56308112/112717523-aaddfb80-8eed-11eb-9eb0-0f15bc6f4e70.png)
-[Twitter](https://twitter.com/anas_aito) - [Linkdin](https://www.linkedin.com/in/anas-ait-aomar-903826164/)  - [Medium](https://anasaitaomar1999.medium.com/) - [My CV](https://github.com/AnasAito/AnasAito/files/6215479/CV_Anas_AITAOMAR.pdf)
+[Twitter](https://twitter.com/anas_aito) - [Linkdin](https://www.linkedin.com/in/anas-ait-aomar-903826164/)  - [Medium](https://anasaitaomar1999.medium.com/) - [My resume](https://github.com/AnasAito/AnasAito/files/7446581/Anas_s_CV_.pdf)
+
 
 
 # Hi there 👋
